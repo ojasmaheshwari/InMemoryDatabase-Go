@@ -1,3 +1,5 @@
+// UPDATE: I forgot to pass pointers instead of values in functions lel
+
 package main
 
 import (
